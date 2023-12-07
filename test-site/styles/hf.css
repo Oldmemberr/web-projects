@@ -1,5 +1,5 @@
 .navigation{
-    float: right;
+    float: left;
     height: 100%;
 }
 
@@ -19,6 +19,6 @@
 }
 
 .navigation a:hover{
-    background-color: gray;
+    background-color: grey;
     color: #101010;
 }
